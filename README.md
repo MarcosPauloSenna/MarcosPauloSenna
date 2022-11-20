@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @MarcosPauloSenna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Ola! Meu nome é Marcos Paulo Santos de Sena, Analista de Qualidade de Software.
+O Crescimento profissional é um dos meus objetivos dentro desta renomada empresa, usando minhas habilidades em benefício da mesma, fazendo parte 
+efetiva do grau de colaboradores, tendo compromisso, respeito e fidelidade, 
+exercendo com máxima eficiência e eficácia a função atribuída a min
 
-<!---
-MarcosPauloSenna/MarcosPauloSenna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/MarcosPauloSenna">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosPauloSenna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPauloSenna&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+
+
+  </div>
+
+<div>
+
+  <a href = "mailto:contatoMarcosPauloSenna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eliabe-nascimento-silva-08093779/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/MarcosPauloSenna/MarcosPauloSenna/blob/output/github-contribution-grid-snake.svg)
+
+</div>
