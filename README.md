@@ -1,7 +1,4 @@
 # Ola! Meu nome é Marcos Paulo Santos de Sena, Analista de Qualidade de Software.
-O Crescimento profissional é um dos meus objetivos dentro desta renomada empresa, usando minhas habilidades em benefício da mesma, fazendo parte 
-efetiva do grau de colaboradores, tendo compromisso, respeito e fidelidade, 
-exercendo com máxima eficiência e eficácia a função atribuída a min
 
 <div align="center">
   <a href="https://github.com/MarcosPauloSenna">
