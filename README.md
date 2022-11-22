@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color= 10:FFC0CB, 50:9932CC&height=180&section=header" />
+<div align="center"> <img height="180em" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header"/>
 
 <h1 align="center"> <font color="9932CC"> <font face="times new roman"> Ola! Meu nome é Marcos Paulo Santos de Sena <br> Analista de Qualidade de Software. </font>
 
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPauloSenna&layout=compact&langs_count=7&theme=dracula"/>
   
 </a>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <br> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
 
