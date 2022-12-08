@@ -1,9 +1,6 @@
 <div align="center"> <img height="180em" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header"/>
 
-<h1 align="center"> <font color="9932CC"> <font face="times new roman"> Ola! Meu nome é Marcos Paulo Santos de Sena <br> Analista de Qualidade de Software. </font>
-
-<div align="center">
-  <a href="https://github.com/MarcosPauloSenna">
+<h1 align="center"> <font color="9932CC"> <font face="times new roman"> Ola! Meu nome é Marcos Paulo Santos de Sena
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosPauloSenna&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 
